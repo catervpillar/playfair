@@ -1,0 +1,3 @@
+/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/CMakeFiles/playfair.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/playfair.dir/main.c.o CMakeFiles/playfair.dir/fileManager.c.o CMakeFiles/playfair.dir/utils.c.o CMakeFiles/playfair.dir/keyFileManager.c.o CMakeFiles/playfair.dir/matrixManager.c.o CMakeFiles/playfair.dir/cipherManager.c.o CMakeFiles/playfair.dir/printer.c.o CMakeFiles/playfair.dir/starter.c.o  -o playfair 

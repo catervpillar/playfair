@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/fileManager.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+fileManager.h
+/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/fileManager.h
+utils.h
+/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/utils.h
+
+/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/fileManager.h
+stdio.h
+-
+
+/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/keyFileManager.h
+stdio.h
+-
+
+/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/utils.h
+stddef.h
+-
+stdio.h
+-
+keyFileManager.h
+/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/keyFileManager.h
+

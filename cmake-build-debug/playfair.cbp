@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="playfair"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="playfair">
+				<Option output="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/playfair" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 playfair"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="playfair/fast">
+				<Option output="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/playfair" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 playfair/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cipherManager.c">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/cipherManager.h">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/fileManager.c">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/fileManager.h">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/keyFileManager.c">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/keyFileManager.h">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/main.c">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/matrixManager.c">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/matrixManager.h">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/printer.c">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/printer.h">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/starter.c">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/starter.h">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/utils.c">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/utils.h">
+			<Option target="playfair"/>
+		</Unit>
+		<Unit filename="/home/tommaso/Documenti/progetti-CLion/TommasoCatervi105053/playfair/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
