@@ -1,4 +1,4 @@
-# Playfair cipher
+# Playfair Cipher
 
 ### Author: Tommaso Catervi
 
@@ -6,12 +6,14 @@ This code has been written for the attainment of the laboratory part of the ["Op
 
 It consists of an implementation in the C language of the famous [Playfair Cipher](https://en.wikipedia.org/wiki/Playfair_cipher), a manual symmetric encryption technique invented in 1854 by Charles Wheatstone bearing the name of Lord Playfair for promoting its use.
 
+## Functionalities
 This application allows the user to:
 - **encode** multiple files using a certain KEYFILE struct
 - **decode** multiple files using a certain KEYFILE struct
 
 It can handle large files in short time too (over 50 Mbyte) without any congestion.
 
+## Prerequisites
 The required data to build the KEYFILE structure must be stored in a text file with the following format and indenting:
 
 ```<alphabet>\r\n```\
@@ -25,6 +27,9 @@ where:
 - ```<specialChar>``` is the special char to use to divide equal letters when forming the digraphs or to add at the end of the message if it has odd length.
 - ```<key>``` is the encryption key required for the construction of the Playfair matrix.
 
+The message to encode or decode must be stored in a text file (any occurrences of blank spaces, numbers or special characters will not be considered for the encoding/decoding and therefore will be deleted).
+
+## Encoding and decoding
 The correct syntax of the command to encode/decode multiple files is:\
 ```<playfair> <encode|decode> <keyfile> <outputdir> <file1> ... <filen>```
 
@@ -45,10 +50,11 @@ The decoded file will contain the decoded message whose digraphs will be separat
 - Example of the decoded file name: ```message.pf -> message.dec```
 - Example of the decoded file content: ```PD DG MA HB...```
 
-The user can also know the program version with one of the following commands:
+## Additional features
+The user can also know the program's version with one of the following commands:
 - ```playfair --version```
 - ```playfair -v```
 
-Also, a useful quick guide of the program can be displayed with one of the commands:
+Also, a useful quick guide to the program can be displayed with one of the following commands:
 - ```playfair --help```
 - ```playfair -h```
