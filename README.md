@@ -8,8 +8,8 @@ It consists of an implementation of the famous [Playfair Cipher](https://en.wiki
 
 This application allows the user to encode and decode multiple files using a certain KEYFILE, producing correspondent ".pf" files as a result of the encoding and ".dec" files as a result of the decoding.
 
-The correct syntax of the command to encode/decode is:
-  ```<playfair> <encode|decode> <keyfile> <outputdir> <file1> ... <filen>```
+The correct syntax of the command to encode/decode is:\
+```<playfair> <encode|decode> <keyfile> <outputdir> <file1> ... <filen>```
 
 where:
 - ```<encode|decode>``` is the desired action to execute on the input file(s).
